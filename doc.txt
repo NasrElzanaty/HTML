@@ -1,0 +1,52 @@
+write Doc then tab and select Emmet tab to complet the HTML head file`
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+// Table:
+
+Insert Table :
+
+<table> inser table
+      <tr> Insert Table row #1
+        name Age phone
+      </tr>
+      <td>Nasr 45 6645555</td> Insert Table data
+      <tr>
+        <td>omar 12 666666</td> Insert Table data
+      </tr>
+      <tr> Insert Table row
+        <td>Mona 42 55555</td> Insert Table data
+      </tr>
+    </table>
+
+
+    <table align="right">
+
+    <table align="left">
+
+    <table align="center">
+
+    Set margin-lef, margin-right to auto or margin to zero
+    bgcolo
+    background-color 
+
+    border pixel
+    cell padding right left
+    cellspacing
+    frame
+    rules
+    border-width
+    border-style
+    
+
